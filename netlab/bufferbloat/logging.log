@@ -1,0 +1,33 @@
+2023-07-06 11:43:49,333 INFO: Starting server
+2023-07-06 11:43:49,344 INFO: Starting client
+2023-07-06 11:43:49,452 INFO: Running experiment for 50 seconds
+2023-07-06 11:44:12,459 INFO: Starting server
+2023-07-06 11:44:12,473 INFO: Starting client
+2023-07-06 11:44:12,569 INFO: Running experiment for 50 seconds
+2023-07-06 11:44:40,424 INFO: Starting server
+2023-07-06 11:44:40,435 INFO: Starting client
+2023-07-06 11:44:40,532 INFO: Running experiment for 50 seconds
+2023-07-06 11:45:30,566 INFO: Terminating server and client
+2023-07-06 11:48:22,758 INFO: Starting server
+2023-07-06 11:48:22,767 INFO: Starting client
+2023-07-06 11:48:22,863 INFO: Running experiment for 50 seconds
+2023-07-06 11:49:12,911 INFO: Terminating server and client
+2023-07-06 11:50:48,814 INFO: Starting server
+2023-07-06 11:50:48,826 INFO: Starting client
+2023-07-06 11:50:48,831 INFO: Running experiment for 50 seconds
+2023-07-06 11:51:38,866 INFO: Terminating server and client
+2023-07-06 11:54:35,488 INFO: Starting server
+2023-07-06 11:54:35,533 INFO: Starting client
+2023-07-06 11:54:35,571 INFO: Running experiment for 50 seconds
+2023-07-06 11:55:25,623 INFO: Terminating server and client
+2023-07-06 11:58:40,824 INFO: Starting server
+2023-07-06 11:58:40,845 INFO: Starting client
+2023-07-06 11:58:40,845 DEBUG: Client command: ../client_server/client-c 10.0.0.2 12346
+2023-07-06 11:58:40,946 DEBUG: Client output: 
+2023-07-06 11:58:40,946 DEBUG: Client error: 
+2023-07-06 11:58:40,946 INFO: Running experiment for 50 seconds
+2023-07-06 11:59:30,992 INFO: Terminating server and client
+2023-07-06 12:30:49,424 DEBUG: backend module://ipykernel.pylab.backend_inline version unknown
+2023-07-06 12:30:50,405 DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=16.0 to DejaVu Sans (u'/usr/local/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+2023-07-06 14:47:03,243 DEBUG: backend module://ipykernel.pylab.backend_inline version unknown
+2023-07-06 14:47:22,396 DEBUG: backend module://ipykernel.pylab.backend_inline version unknown
